@@ -1,0 +1,6 @@
+@VowsAndVeils_HostAddress = http://localhost:5030
+
+GET {{VowsAndVeils_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
