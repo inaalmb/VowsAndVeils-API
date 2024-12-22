@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "VowsAndVeils.Controllers.PostController",
+    "Method": "CreateWeddingDress",
+    "RelativePath": "api/Post/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VowsAndVeils.DTOs.WeddingDressRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VowsAndVeils.Controllers.PostController",
+    "Method": "GetSalonOwner",
+    "RelativePath": "api/Post/owner/{SalonOwnerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salonOwnerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StayNest_API.Controllers.UserController",
     "Method": "GetAllUser",
     "RelativePath": "api/User",
@@ -36,6 +68,38 @@
       {
         "Name": "request",
         "Type": "VowsAndVeils.DTOs.RegisterUserRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VowsAndVeils.Controllers.WeddingDressController",
+    "Method": "RateWeddingDress",
+    "RelativePath": "api/WeddingDress/rate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VowsAndVeils.DTOs.RatingRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VowsAndVeils.Controllers.WeddingDressController",
+    "Method": "MakeAnAppointment",
+    "RelativePath": "api/WeddingDress/reserve",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VowsAndVeils.DTOs.AppointmentRequestDTO",
         "IsRequired": true
       }
     ],

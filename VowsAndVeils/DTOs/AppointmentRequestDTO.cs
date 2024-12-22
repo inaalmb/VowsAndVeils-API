@@ -1,13 +1,13 @@
 ﻿using System.Data;
 
-namespace VowsAndVeils.Data.Models
+namespace VowsAndVeils.DTOs
 {
-    public class Appointment
+    public class AppointmentRequestDTO
     {
-        public int Id { get; set; }
         public int UserId { get; set; }
         public string WeddingDressId { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
+
     }
 }

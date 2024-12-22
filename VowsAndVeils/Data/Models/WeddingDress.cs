@@ -8,7 +8,7 @@ namespace VowsAndVeils.Data.Models
         public string UrlPhoto { get; set; }
         public string Name { get; set; }
         public int Price { get; set; }
-        public string Status { get; set; }
+        public bool Status { get; set; }
         public string Size { get; set; }
 
         [ForeignKey(nameof(SalonOwnerId))]

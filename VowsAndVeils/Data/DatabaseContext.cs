@@ -13,6 +13,7 @@ namespace VowsAndVeils.Data
 
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Appointment> Appointment { get; set; }
+        public DbSet<Rating> Ratings { get; set; }
 
         public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options) 
         {

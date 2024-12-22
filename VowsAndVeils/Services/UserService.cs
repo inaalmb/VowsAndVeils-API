@@ -7,7 +7,7 @@ using System.Text;
 using System.Security.Claims;
 using VowsAndVeils.Interfaces;
 
-namespace StayNest_API.Services
+namespace VowsAndVeils.Services
 {
     public class UserService : IUserService
     {

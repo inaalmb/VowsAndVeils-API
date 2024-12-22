@@ -9,5 +9,6 @@ namespace VowsAndVeils.Interfaces
     {
         Task<List<WeddingDress>> SearchWeddingDresses(SearchCriteriaDTO criteria);
         Task MakeAnAppointment(Appointment appointment);
+        Task AddRating(Rating rating);
     }
 }

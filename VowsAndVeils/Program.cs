@@ -2,7 +2,6 @@ using Microsoft.EntityFrameworkCore;
 using System.Text;
 using VowsAndVeils.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using StayNest_API.Services;
 using VowsAndVeils.Interfaces;
 using AutoMapper;
 using VowsAndVeils.DTOs;
@@ -38,8 +37,6 @@ builder.Services.AddAuthentication(options =>
     };
     options.RequireHttpsMetadata = false;
 });
-
-builder.Services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
 // Add CORS policy
 builder.Services.AddCors(o => o.AddPolicy("MyPolicy", builder =>

@@ -41,7 +41,7 @@ namespace VowsAndVeils.Services
         public async Task MakeAnAppointment(Appointment appointment)
         {
             var existingAppointment = await _databaseContext.Appointment
-                .Where(a => a.AdvertisementId == appointment.AdvertisementId)
+                .Where(a => a.WeddingDressId == appointment.WeddingDressId)
                 .Where(a => a.StartDate < appointment.EndDate && a.EndDate > appointment.StartDate).FirstOrDefaultAsync();
 
             if (existingAppointment != null)
@@ -53,6 +53,12 @@ namespace VowsAndVeils.Services
             await _databaseContext.SaveChangesAsync();
 
         }
+        public async Task AddRating(Rating rating)
+        {
+            await _databaseContext.Ratings.AddAsync(rating);
+            await _databaseContext.SaveChangesAsync();
+        }
+
 
     }
 }
