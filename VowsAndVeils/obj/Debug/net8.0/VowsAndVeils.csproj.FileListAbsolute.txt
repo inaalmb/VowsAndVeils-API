@@ -1,3 +1,11 @@
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.AssemblyInfo.cs
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.sourcelink.json
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\appsettings.json
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\VowsAndVeils.exe
@@ -5,6 +13,7 @@ C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\VowsAndVeils.de
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\VowsAndVeils.runtimeconfig.json
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\VowsAndVeils.dll
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\VowsAndVeils.pdb
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\Humanizer.dll
@@ -119,13 +128,6 @@ C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\runtimes\win\li
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.csproj.AssemblyReference.cache
-C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.AssemblyInfoInputs.cache
-C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.AssemblyInfo.cs
-C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.csproj.CoreCompileInputs.cache
-C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\staticwebassets\msbuild.VowsAndVeils.Microsoft.AspNetCore.StaticWebAssets.props
@@ -140,3 +142,4 @@ C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\refint\VowsAndV
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.pdb
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\VowsAndVeils.genruntimeconfig.cache
 C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\obj\Debug\net8.0\ref\VowsAndVeils.dll
+C:\Users\Dell\Desktop\VowsAndVeils\VowsAndVeils\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

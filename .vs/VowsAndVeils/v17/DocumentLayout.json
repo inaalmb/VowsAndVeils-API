@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\data\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\data\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\vowsandveils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\vowsandveils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\interfaces\\iweddingdressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\interfaces\\iweddingdressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\data\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\data\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\services\\weddingdressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\services\\weddingdressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\migrations\\20241201150158_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\migrations\\20241201150158_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\dtos\\reservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\dtos\\reservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\controllers\\weddingdresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\controllers\\weddingdresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\migrations\\20241222154346_updateweddingdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\migrations\\20241222154346_updateweddingdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "VowsAndVeils\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Services\\UserService.cs",
-              "RelativeToolTip": "VowsAndVeils\\Services\\UserService.cs",
-              "ViewState": "AQIAABQAAACAl5mZmZkdwCQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T20:55:40.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VowsAndVeils.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\VowsAndVeils.csproj",
-              "RelativeDocumentMoniker": "VowsAndVeils\\VowsAndVeils.csproj",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\VowsAndVeils.csproj",
-              "RelativeToolTip": "VowsAndVeils\\VowsAndVeils.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T20:54:53.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "VowsAndVeils\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "VowsAndVeils\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T20:32:24.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "VowsAndVeils\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Controllers\\UserController.cs",
-              "RelativeToolTip": "VowsAndVeils\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:07:58.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "VowsAndVeils\\Data\\DatabaseContext.cs",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\DatabaseContext.cs",
               "RelativeToolTip": "VowsAndVeils\\Data\\DatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:58:55.224Z",
+              "WhenOpened": "2024-12-22T16:12:21.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "VowsAndVeils\\Data\\Models\\Users.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\Models\\Users.cs",
-              "RelativeToolTip": "VowsAndVeils\\Data\\Models\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Program.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Program.cs",
+              "RelativeToolTip": "VowsAndVeils\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwDYAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:54:05.537Z",
+              "WhenOpened": "2024-12-22T15:16:40.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWeddingDressService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Interfaces\\IWeddingDressService.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Interfaces\\IWeddingDressService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Interfaces\\IWeddingDressService.cs",
+              "RelativeToolTip": "VowsAndVeils\\Interfaces\\IWeddingDressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:15:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "RelativeToolTip": "VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:50:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeddingDressService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Services\\WeddingDressService.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Services\\WeddingDressService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Services\\WeddingDressService.cs",
+              "RelativeToolTip": "VowsAndVeils\\Services\\WeddingDressService.cs",
+              "ViewState": "AQIAAB8AAAAAY2ZmZmYAwCwAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:12:03.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\DTOs\\ReservationRequestDTO.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\DTOs\\ReservationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\DTOs\\ReservationRequestDTO.cs",
+              "RelativeToolTip": "VowsAndVeils\\DTOs\\ReservationRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:53:01.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "20241201150158_Users.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Migrations\\20241201150158_Users.cs",
-              "RelativeDocumentMoniker": "VowsAndVeils\\Migrations\\20241201150158_Users.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Migrations\\20241201150158_Users.cs",
-              "RelativeToolTip": "VowsAndVeils\\Migrations\\20241201150158_Users.cs",
-              "ViewState": "AQIAAAAAAABAMzMzMzMbwAAAAAAAAAAA",
+              "Title": "WeddingDressController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Controllers\\WeddingDressController.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Controllers\\WeddingDressController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Controllers\\WeddingDressController.cs",
+              "RelativeToolTip": "VowsAndVeils\\Controllers\\WeddingDressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:01:59.032Z"
+              "WhenOpened": "2024-12-22T15:21:10.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241222154346_UpdateWeddingDress.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Migrations\\20241222154346_UpdateWeddingDress.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Migrations\\20241222154346_UpdateWeddingDress.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Migrations\\20241222154346_UpdateWeddingDress.cs",
+              "RelativeToolTip": "VowsAndVeils\\Migrations\\20241222154346_UpdateWeddingDress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:43:46.669Z",
+              "EditorCaption": ""
             }
           ]
         }
