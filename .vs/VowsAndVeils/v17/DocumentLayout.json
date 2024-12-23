@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|c:\\users\\dell\\desktop\\vowsandveils\\vowsandveils\\data\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC63ABA9-1541-4B2B-A603-26FEF3C5FEB4}|VowsAndVeils\\VowsAndVeils.csproj|solutionrelative:vowsandveils\\data\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\DTOs\\AppointmentRequestDTO.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\DTOs\\AppointmentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\DTOs\\AppointmentRequestDTO.cs",
+              "RelativeToolTip": "VowsAndVeils\\DTOs\\AppointmentRequestDTO.cs",
+              "ViewState": "AQIAAAAAAABAZmZmZmYkwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:56:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Controllers\\PostController.cs",
+              "RelativeToolTip": "VowsAndVeils\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAEAAABA///////nv0IAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:42:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Interfaces\\IPostService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "VowsAndVeils\\Interfaces\\IPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:41:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "RelativeToolTip": "VowsAndVeils\\Data\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:39:49.886Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "VowsAndVeils\\Services\\PostService.cs",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\VowsAndVeils\\VowsAndVeils\\Services\\PostService.cs",
               "RelativeToolTip": "VowsAndVeils\\Services\\PostService.cs",
-              "ViewState": "AQIAADwAAACAAAAAAMAswEUAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T23:28:18.569Z",
               "EditorCaption": ""

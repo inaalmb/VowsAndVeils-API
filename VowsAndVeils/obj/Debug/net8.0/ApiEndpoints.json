@@ -1,6 +1,38 @@
 [
   {
     "ContainingType": "VowsAndVeils.Controllers.PostController",
+    "Method": "DeleteWeddingDress",
+    "RelativePath": "api/Post/{weddingDressId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "weddingDressId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VowsAndVeils.Controllers.PostController",
+    "Method": "GetAppointmentForOwner",
+    "RelativePath": "api/Post/appoitments/{SalonOwnerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SalonOwnerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VowsAndVeils.Controllers.PostController",
     "Method": "CreateWeddingDress",
     "RelativePath": "api/Post/create",
     "HttpMethod": "POST",

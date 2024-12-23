@@ -65,6 +65,24 @@ namespace VowsAndVeils.Services
                 .ToListAsync();
             return weddingDress;
         }
+        public async Task<List<Appointment>> GetAppointmentForOwner(int SalonOwnerId)
+        {
+            return await _databaseContext.Appointment
+                .Include(r => r.WeddingDress)
+                .Where(r => r.WeddingDress.SalonOwnerId == SalonOwnerId)
+                .ToListAsync();
+        }
+
+        public async Task DeleteWeddingDress(int weddingDressId, int SalonOwnerId)
+        {
+            var weddingDress = await _databaseContext.WeddingDresses
+                .FirstOrDefaultAsync(wd => wd.Id == weddingDressId && wd.SalonOwnerId == SalonOwnerId);
+
+            if (weddingDress == null)
+                throw new KeyNotFoundException("Error");
+
+            _databaseContext.WeddingDresses.Remove(weddingDress);
+            await _databaseContext.SaveChangesAsync();
+        }
     }
 }
-  

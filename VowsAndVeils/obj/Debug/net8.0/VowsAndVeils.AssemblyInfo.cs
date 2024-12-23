@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VowsAndVeils")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf496fb7e4f5d1692e3b6c87dc985f0e5c4c74d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4594370032a3ecb0d735378a77d5b9b5e5da10c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("VowsAndVeils")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VowsAndVeils")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
